@@ -28,7 +28,7 @@ Les « Pull requests » sont les bienvenues. Pour les changements majeurs, veuil
 
 ## Authors
 
-- Loïc Butor (group leader, functionalities)
+- Loïc Butor (leader, gameplay)
 - Alexandre Duvet (level design, level generation)
 - Thomas Lelong (IA)
-- François Carpentier (Network and multiplayer)
+- François Carpentier (Network et multijoueur)
